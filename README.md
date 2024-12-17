@@ -1,8 +1,8 @@
-# estimacion_media
+# median-estimation
 Estimate median
 
-# Librerias
-<p>Este proyecto utiliza las librerias de Flask y Pandas. </p>
-<p>Se recomienda correr el programa con el environment base de Anaconda </p>
+# Libraries
+<p>This project uses Flask and Pandas. </p>
+<p>You should run the program with the Anaconda base environment</p>
 
-<p>Los archivos de Excel se deben encontrar dentro de la raiz de la aplicacion</p>
+<p>The Excel files must be on the root of the application</p>
